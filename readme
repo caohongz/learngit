@@ -2,3 +2,4 @@ Try to understand how's git to control modify of file.
 The second modify.
 The test of branch dev.
 Creating a new branch is quick and simple.
+Test --no-ff model's git merge.
